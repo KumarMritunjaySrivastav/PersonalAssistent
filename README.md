@@ -1,7 +1,7 @@
 # PersonalAssistent
 It's an Personal Assistent developed in C++ using espeak library file.
 
-1.2 Problem Statement
+1.2 Problem Statement: 
 We are all well aware about Cortana, Siri, Google Assistant and many other virtual
 assistants which are designed to aid the tasks of users in Windows, Android and
 iOS platforms. But to our surprise, there’s no such virtual assistant available for
@@ -13,7 +13,8 @@ assistant is fully native to the users system and the whole development is requi
 performed on the users system although its capacities are limited to a certain limit but continuous
 work is to be carried out for make it better day by day
 
-1.3 Objective
+1.3 Objective:
+
 Main objective of building personal assistant software (a virtual assistant) is using
 semantic data sources available on the web, user generated content and providing knowledge
 from knowledge databases. The main purpose of an intelligent virtual assistant is to answer

@@ -32,3 +32,7 @@ faster than a written search: whereas we can write about 40 words per minute, we
 speaking around 150 during the same period of time15. In this respect, the ability of personal
 assistants to accurately recognize spoken words is a prerequisite for them to be adopted by
 consumers.
+
+i'm attesting a snap of the working project too...
+
+<img src=" Screenshot (24).png">
